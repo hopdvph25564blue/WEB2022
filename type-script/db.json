@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Áo Polo Nam Cafe Tổ Ong Phối 3 Màu",
+      "price": "379.000",
+      "images": "https://bizweb.dktcdn.net/100/438/408/products/ao-polo-nam-apm5413-tpv-4.jpg?v=1678526379770",
+      "description": "Áo polo nam cafe dệt tổ ong phối 3 màu độc đáo. Chất liệu: 100% Recycle SCafe Poly"
+    },
+    {
+      "id": 2,
+      "name": "Áo Polo Nam Mắt Chim Phối Màu In Kẻ",
+      "price": "369.000",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/ao-polo-nam-mat-chim-phoi-mau-in-ke-apm6075-ddo-6.jpg?v=1677817434000",
+      "description": "Áo polo nam cafe dệt tổ ong phối 3 màu độc đáo. Chất liệu: 100% Recycle SCafe Poly"
+    },
+    {
+      "id": 3,
+      "name": "Áo Polo Nam Cafe Bo 3 Màu",
+      "price": "379.000",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/ao-polo-nam-apm6137-tra-4.jpg?v=1678528577000",
+      "description": "Áo polo nam cafe dệt tổ ong phối 3 màu độc đáo. Chất liệu: 100% Recycle SCafe Poly"
+    },
+    {
+      "id": 4,
+      "name": "Áo Polo Nam Cafe Tổ Ong Phối 3 Màu",
+      "price": "379.000",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/apm3299-xxm-7.jpg?v=1673602563000",
+      "description": "Áo polo nam cafe dệt tổ ong phối 3 màu độc đáo. Chất liệu: 100% Recycle SCafe Poly"
+    },
+    {
+      "id": 5,
+      "name": "T-Shirt Nam Yody Clean Việt Nam In Ngực",
+      "price": "349.000",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/ao-thun-nam-tsm6043-xla-5.jpg?v=1680161019000",
+      "description": "Thoải mái hoạt động với chất liệu co giãn đàn hồi cực tốt mà không cần sử dụng đến sợi spandex, bề mặt vải hồi phục tốt ngay sau khi co giãn."
+    },
+    {
+      "id": 6,
+      "name": "46873264783",
+      "price": "379.000",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/ao-thun-nam-tsm6041-nau-6.jpg?v=1680160940000",
+      "description": "Thoải mái hoạt động với chất liệu co giãn đàn hồi cực tốt mà không cần sử dụng đến sợi spandex, bề mặt vải hồi phục tốt ngay sau khi co giãn."
+    },
+    {
+      "id": 7,
+      "name": "Áo Thun Thể Thao Nam In Ngực",
+      "price": "349.000",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/stm6081-tra-17.jpg?v=1680489339000",
+      "description": "Thoải mái hoạt động với chất liệu co giãn đàn hồi cực tốt mà không cần sử dụng đến sợi spandex, bề mặt vải hồi phục tốt ngay sau khi co giãn."
+    },
+    {
+      "id": 8,
+      "name": "Áo Thun Nam Cotton USA Túi Ngực In Phối",
+      "price": "269.000",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/ao-thun-nam-tsm6025-dn1-1.jpg?v=1680160772000",
+      "description": "Thoải mái hoạt động với chất liệu co giãn đàn hồi cực tốt mà không cần sử dụng đến sợi spandex, bề mặt vải hồi phục tốt ngay sau khi co giãn."
+    },
+    {
+      "id": 9,
+      "name": "Áo Sơ Mi Nam Dài Tay Kẻ Caro",
+      "price": "549.000",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/smm5207-xdm-5.jpg?v=1672993152000",
+      "description": "Chất liệu sợi cotton thấm hút mồ hôi tốt, thoáng khí.Áo sơ mi nam kẻ caro/ thiết kế cơ bản dáng ôm trẻ trụng.Họa tiết kẻ caro cơ bản. cổ áo và nẹp được ép giữ phom.Mặc được trong nhiều hoàn cảnh như đi làm, đi chơi, dạo phố,.. vẫn rất thoải mái và lịch sự.YODY - Look good. Feel good."
+    },
+    {
+      "id": 10,
+      "name": "Áo Sơ Mi Nhung Nam Thêu Gấu",
+      "price": "359.000",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/smm5213-nau-2.jpg?v=1668503250000",
+      "description": "Chất liệu vải Nhung Tăm 100% Cotton.Thoải mái với vải mềm mại và bông, giữ ấm cơ thể tốt"
+    },
+    {
+      "id": 11,
+      "name": "Áo Sơ Mi Nam Phối Túi",
+      "price": "499.000",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/smm5219-tit-09.jpg?v=1676694524000",
+      "description": "Chất liệu vải Nhung Tăm 100% Cotton.Thoải mái với vải mềm mại và bông, giữ ấm cơ thể tốt"
+    },
+    {
+      "id": 12,
+      "name": "Áo Sơ Mi Nam Cộc Tay Cao Cấp Yo.Smart",
+      "price": "599.000",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/scm5073-kxa07.jpg?v=1668844650000",
+      "description": "Chất liệu vải Nhung Tăm 100% Cotton.Thoải mái với vải mềm mại và bông, giữ ấm cơ thể tốt"
+    },
+    {
+      "name": "fdđg",
+      "price": "543234765397243",
+      "description": "gfdghdfg",
+      "id": 13
+    },
+    {
+      "name": "sdsdfdsfd",
+      "id": 15,
+      "price": "4793875",
+      "description": "fjhgsjdfnkd"
+    },
+    {
+      "name": "hjdfsksdjfgs",
+      "price": "12345",
+      "description": "ytretu47384",
+      "id": 16
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Ao polo"
+    },
+    {
+      "id": 2,
+      "name": "Ao thun"
+    },
+    {
+      "id": 3,
+      "name": "Ao sơ mi"
+    },
+    {
+      "name": "ao phong",
+      "id": 4
+    },
+    {
+      "name": "2732y47",
+      "id": 5
+    },
+    {
+      "name": "fbjh",
+      "id": 6
+    },
+    {
+      "name": "dfbhjdkfb",
+      "id": 7
+    }
+  ]
+}
